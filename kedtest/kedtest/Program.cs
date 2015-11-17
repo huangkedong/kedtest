@@ -11,6 +11,7 @@ namespace kedtest
         static void Main(string[] args)
         {
             Console.WriteLine("this is a github test");
+            Console.WriteLine("I have changed it ");
         }
     }
 }
